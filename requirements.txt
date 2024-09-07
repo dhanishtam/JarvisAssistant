@@ -1,0 +1,10 @@
+#123
+customtkinter==5.2.2
+pillow==10.3.0
+pyttsx3==2.90
+selenium==4.21.0
+groq==0.8.0
+bs4==0.0.2
+pywhatkit==5.4
+pyautogui
+python-dotenv
